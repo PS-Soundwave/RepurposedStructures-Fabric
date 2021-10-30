@@ -3,14 +3,15 @@
   "id": "repurposed_structures",
   "version": "${version}",
 
-  "name": "Repurposed Structures",
+  "name": "Repurposed Structures (Soundy's Patch)",
   "description": "Adds more variations of vanilla structures and features!",
   "authors": [
-    "TelepathicGrunt"
+    "TelepathicGrunt",
+    "Soundwave"
   ],
   "contact": {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric",
-    "issues": "https://github.com/TelepathicGrunt/RepurposedStructures-Fabric/issues"
+    "issues": "https://github.com/PS-Soundwave/RepurposedStructures-Fabric/issues"
   },
 
   "license": "GNU Lesser General Public License v3.0",
